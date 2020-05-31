@@ -1,0 +1,10 @@
+# Personal GitHub notes
+
+Merge Requests (or Changes) or Pull Requests across different repositories: https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/update-github-repositories-with-changes-by-others/
+
+Base repository means Main project repository
+
+HEAD repository means your forked project repository (where our local changes are pushed to) forked from Base repository (the Main project repository)
+
+
+Sync a GitHub Repo: How To Ensure Your GitHub Fork Is Up To Date: https://www.earthdatascience.org/courses/intro-to-earth-data-science/git-github/github-collaboration/update-github-repositories-with-changes-by-others/
